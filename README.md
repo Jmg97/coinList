@@ -10,8 +10,6 @@
 
 JavaScript React RealGrid2
 
-라이브러리를 사용하지않고 바닐라 Js로 작성
-
 # 추가 할 점 
 
 코인 상세 정보 팝업으로 표시 기능
