@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/coinList/static/css/main.6ab5e454.css",
-    "main.js": "/coinList/static/js/main.8318fecd.js",
+    "main.js": "/coinList/static/js/main.43a8c4d5.js",
     "static/js/787.b7c52895.chunk.js": "/coinList/static/js/787.b7c52895.chunk.js",
     "index.html": "/coinList/index.html",
     "main.6ab5e454.css.map": "/coinList/static/css/main.6ab5e454.css.map",
-    "main.8318fecd.js.map": "/coinList/static/js/main.8318fecd.js.map",
+    "main.43a8c4d5.js.map": "/coinList/static/js/main.43a8c4d5.js.map",
     "787.b7c52895.chunk.js.map": "/coinList/static/js/787.b7c52895.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6ab5e454.css",
-    "static/js/main.8318fecd.js"
+    "static/js/main.43a8c4d5.js"
   ]
 }
